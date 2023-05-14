@@ -3,7 +3,7 @@ button {
 	width: 20%;
 	height: 40px;
 	border-radius: 40px;
-	background: white;
+	background: 'white';
 
 }
 label{
@@ -12,7 +12,7 @@ label{
 body{
 	background-color:#ffb6c1; 
 	background-image: url(backrgound.png)  ;
-color: white;
+color:'white';
 
 }
 #age{
@@ -31,6 +31,6 @@ color: white;
 	backdrop-filter: blur(50px);
 }
 #pendaftaran{
-	color: white;
+	color:'white';
 	align-content: left;
 }
