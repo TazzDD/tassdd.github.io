@@ -1,0 +1,36 @@
+
+button {
+	width: 20%;
+	height: 40px;
+	border-radius: 40px;
+	background: white;
+
+}
+label{
+
+}
+body{
+	background-color:#ffb6c1; 
+	background-image: url(backrgound.png)  ;
+color: white;
+
+}
+#age{
+	width: 10%;
+}
+
+#alamat{
+	height: 20px;
+}
+.tabel{
+	width: 550px;
+	height: 490px;
+	border-radius: 20px;
+	border: 2px solid rgba(225, 225,225, 1.0);
+	background: transparent;
+	backdrop-filter: blur(50px);
+}
+#pendaftaran{
+	color: white;
+	align-content: left;
+}
